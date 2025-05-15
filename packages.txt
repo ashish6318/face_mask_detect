@@ -1,1 +1,2 @@
 libgl1-mesa-glx
+zlib1g-dev
