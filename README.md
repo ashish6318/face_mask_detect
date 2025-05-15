@@ -42,7 +42,6 @@ This dataset consists of __4095 images__ belonging to two classes:
 
 The images used were real images of faces wearing masks. The images were collected from the following sources:
 
-* __Bing Search API__ ([See Python script](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/search.py))
 * __Kaggle datasets__ 
 * __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
 
@@ -58,7 +57,7 @@ $ git clone https://github.com/ashish6318/face-mask-detect.git
 
 2. Change your directory to the cloned repo 
 ```
-$ cd Face-Mask-Detection
+$ cd face-mask-detect
 ```
 
 3. Create a Python virtual environment named 'test' and activate it
