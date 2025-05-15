@@ -152,7 +152,6 @@ $ streamlit run app.py
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 
-## :Owner
-Made with :&nbsp;  by [Ashish Rajput](https://github.com/ashish6318)
+
 
 
