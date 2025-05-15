@@ -4,7 +4,7 @@ tensorflow>=2.16.1  # Using a recent stable version of TensorFlow
 # keras==2.4.3      # Commented out: Use tf.keras from TensorFlow 2.x instead
 imutils==0.5.4      # This version seems to be the latest for imutils
 numpy>=1.26.0       # Needed for modern TensorFlow and Python 3.12
-opencv-python>=4.9.0
+opencv-python-headless>=4.9.0
 matplotlib>=3.8.2
 # argparse==1.4.0   # Removed: argparse is part of the Python standard library
 scipy>=1.13.0       # Older versions will fail to build on Python 3.12
