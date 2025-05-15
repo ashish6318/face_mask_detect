@@ -164,6 +164,6 @@ Feel free to **file a new issue** with a respective title and description on the
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 ## :Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/ashish6318)
+Made with :&nbsp;  by [Ashish Rajput](https://github.com/ashish6318)
 
 
