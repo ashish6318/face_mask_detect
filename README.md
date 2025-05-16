@@ -186,6 +186,11 @@ $ streamlit run app.py
 ├── requirements.txt
 └── search.py
 ```
+## Overleaf Report Link
+https://www.overleaf.com/3376585525vggtxbmqfvjh#e9e0ac
+## Apk Link
+https://drive.google.com/file/d/1VtchKkKkAlgDSMbmXP6wGoQeN7dXnWEG/view?usp=drivesdk
+## Video
 
 
 ## Live Webapp
