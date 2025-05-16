@@ -191,7 +191,7 @@ https://www.overleaf.com/3376585525vggtxbmqfvjh#e9e0ac
 ## Apk Link
 https://drive.google.com/file/d/1VtchKkKkAlgDSMbmXP6wGoQeN7dXnWEG/view?usp=drivesdk
 ## Video
-
+https://drive.google.com/file/d/1Ws_eAVjW4M2BCuLPymo7gFRh4cl_V6vb/view?usp=drivesdk
 
 ## Live Webapp
 https://facemaskdetect-5927wsthsy2g94tdvv9mxd.streamlit.app/
