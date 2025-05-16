@@ -151,7 +151,41 @@ $ streamlit run app.py
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
+## :File Structure
+## Project Structure
 
+```
+.
+├── .devcontainer/
+├── Face Mask APP/
+├── Logo/
+├── Readme_images/
+├── __pycache__/
+├── css/
+├── dataset/
+├── face_detector/
+├── images/
+├── incep_v3_mask_model/
+├── .DS_Store
+├── .gitignore
+├── CITATION.cff
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── Windows_guide.md
+├── _config.yml
+├── app.py
+├── detect_mask_image.py
+├── detect_mask_video.py
+├── mask_detector.h5
+├── mask_detector.model
+├── model2onnx.py
+├── packages.txt
+├── plot.png
+├── requirements.txt
+└── search.py
+```
 
 
 ## Live Webapp
